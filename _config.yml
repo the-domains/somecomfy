@@ -2,6 +2,7 @@ name: SomeComfy
 favicon: null
 layout_spectrum: 0.14151965780183673
 typography_spectrum: 0.9805252177175134
+title: SomeComfy
 cta:
   domain: null
   bucket: null
